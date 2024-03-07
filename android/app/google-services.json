@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559305489287",
+    "project_id": "myapp-49a87",
+    "storage_bucket": "myapp-49a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559305489287:android:6e16318891193298457122",
+        "android_client_info": {
+          "package_name": "com.ankita.whattsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559305489287-kcr4p3u7vsve6h3cn1offcpnaln9trvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsg1QP4-WsejSmqO56skxwEI8YQ5Wq7T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559305489287-kcr4p3u7vsve6h3cn1offcpnaln9trvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
